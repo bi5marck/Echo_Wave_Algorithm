@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Echo_Wave_Algorithm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Echo_Wave_Algorithm_jar</output-path>
+    <root id="archive" name="Echo_Wave_Algorithm.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/resource/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Echo_Wave_Algorithm" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>
