@@ -1,1 +1,1 @@
-# Car_Rental_System
+# Echo_Wave_Algorithm
